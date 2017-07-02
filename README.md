@@ -1,3 +1,3 @@
 # git101
 
-Celia is cool
+Summer of tech - git101
